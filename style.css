@@ -1,1 +1,175 @@
-mmmm
+.firstimage{
+	margin-left:40px;
+	margin-top:15px;
+	float:left;
+}
+.img1{
+	margin-right:40px;
+	margin-top:30px;
+	float:right;
+}
+.img2{
+	margin-right:40px;
+	margin-top:33px;
+	float:right;
+}
+a{
+	margin-right:40px;
+	margin-top:33px;
+	float:right;
+	color:black;
+	font-size:30px;
+	text-decoration:none;
+	
+}
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+.input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #CCC;
+  margin-right:40px;
+	margin-top:50px;
+	float:right;
+  
+}
+.search{
+	margin-right:0px;
+	margin-top:48px;
+	float:right;
+}
+#div1{
+	background-color:yellow;
+	margin-top:50px;
+	width:100%;
+}
+.h1{
+	margin-top:600px;
+}
+.p1{
+	position:absolute;
+	margin-top:170px;
+	margin-left:200px;
+	font-size:65px;
+}
+#p2{position:absolute;
+	margin-top:350px;
+margin-left:200px;
+font-size:25px;}
+#b1{
+	position:absolute;
+	margin-top:450px;
+margin-left:-78px;
+background-color:black;
+color:white;
+width:100px;
+height:35px;
+}
+#here{
+	position:absolute;
+	margin-top:650px;
+margin-left:520px;
+}
+#pick{
+	position:absolute;
+	margin-top:850px;
+margin-left:150px;
+}
+#pick1{
+	position:absolute;
+	margin-top:25px;
+margin-left:-40px;
+font-size:27px;
+}
+#pick2{
+	position:absolute;
+	margin-top:190px;
+margin-left:-5px;
+font-size:35px;
+}
+#pick3{
+		position:absolute;
+	margin-top:70px;
+margin-left:-40px;
+font-size:20px;}
+#dil{
+	position:absolute;
+	margin-top:850px;
+margin-left:600px;
+}
+#dil1{
+	position:absolute;
+	margin-top:25px;
+margin-left:50px;
+font-size:27px;
+}
+#dil2{
+	position:absolute;
+	margin-top:70px;
+margin-left:-5px;
+font-size:20px;
+}
+#pack{
+	position:absolute;
+	margin-top:850px;
+margin-left:1100px;
+}
+#pack1{
+	position:absolute;
+	margin-top:20px;
+margin-left:20px;
+font-size:27px;
+}
+#pack2{
+	position:absolute;
+	margin-top:90px;
+margin-left:5px;
+font-size:20px;
+}
+
+#div11{
+	background-color:yellow;
+	margin-top:50px;
+	width:100%;
+}
+.h11{
+	margin-top:600px;
+}
+
+	
+
+	
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+	
